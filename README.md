@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest Mock Date Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+使用`mockdate`可以快速的mock一个date
 
 ```
 npm install
